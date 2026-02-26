@@ -14,6 +14,15 @@
 
 ---
 
+## Screenshots
+
+### Dark Theme
+![Dark Theme](docs/screenshots/dark_theme.png)
+
+### Light Theme
+![Light Theme](docs/screenshots/light_theme.png)
+---
+
 ## Installation
 
 ### From Releases (Windows)
