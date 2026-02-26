@@ -16,30 +16,27 @@
 
 ## Installation
 
-### From Source
+### From Releases (Windows)
 
-1. Clone this repository:
-
-```bash
-git clone https://github.com/AmadeusSpeaks/MindCord.git
-cd MindCord
-```
-
-2. Install dependencies:
+1. Download the latest [MindCord release `.7z`](https://github.com/AmadeusSpeaks/MindCord/blob/main/releases/MindCord.7z).
+2. Extract the archive to a folder of your choice.
+3. Navigate into the extracted folder and install dependencies:
 
 ```bash
 pip install -r requirements.txt
-```
+````
 
-3. Run the app:
+4. Run the app:
 
 ```bash
 python app.py
 ```
 
+> Note: This method requires Python 3.14+ and `pip` installed on your system.
+
 ### From Installer (Windows)
 
-1. Download the [MindCord Installer](#) (if available).
+1. Download the [MindCord Installer](MindCord_Installer.exe).
 2. Run the installer and follow the prompts.
 3. The app will install in `C:\Program Files\MindCord` (default) and create the database in your AppData folder.
 4. Use the Start Menu or desktop shortcut to launch MindCord.
